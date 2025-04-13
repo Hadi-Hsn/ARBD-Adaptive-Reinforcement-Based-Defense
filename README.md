@@ -1,4 +1,4 @@
-# Project: RLAB Attack and Feature Squeezing Visualization
+# ARBD: Adaptive Reinforcement-Based Defense
 
 This repository contains Jupyter notebooks and Python scripts for implementing and visualizing the Reinforcement Learning Adversarial Blackbox (RLAB) attacks and our Proposed Adaptive Reinforcement-Based Defense (ARBD) Defense using CNN models and VGG-16 models on CIFAR-10 and MNIST datasets.
 
